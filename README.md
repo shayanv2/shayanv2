@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👤 **I'm Mixcko**  
+👤 **I'm Shayan**  
 ⚙ **Programmer** (Javascript, Python, learning Rust, C# and Java)                                                                                                                                                                                                                                       
 🌍 **Languages:** German, English  
 
