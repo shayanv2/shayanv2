@@ -42,8 +42,7 @@
 
 ## 📫 Contact
 
-- 💬 Discord: `wmixcko`
-- 📧 Email: `realmixcko@gmail.com`
+- 📧 Email: `officialshayan2025@gmail.com`
 
 
 # And Icarus laughed as he fell, for he knew to fall means to once have soared
