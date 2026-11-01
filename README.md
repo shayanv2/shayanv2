@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👤 **I'm Shayan**  
-⚙ **Programmer** (Javascript, Python, learning Rust, C# and Java)                                                                                                                                                                                                                                       
+⚙ **Programmer** (Javascript, Python)                                                                                                                                                                                                                                       
 🌍 **Languages:** German, English  
 
 
